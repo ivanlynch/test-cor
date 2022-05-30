@@ -1,0 +1,15 @@
+{
+  "name": "test-cor",
+  "version": "1.0.0",
+  "description": "Test COR",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "jest"
+  },
+  "author": "Ivan Lynch",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^28.1.0"
+  }
+}
